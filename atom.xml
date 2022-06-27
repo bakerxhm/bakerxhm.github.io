@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bakerxhm.github.io</id>
+    <title>贝壳小航母</title>
+    <updated>2022-06-27T08:23:33.436Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bakerxhm.github.io"/>
+    <link rel="self" href="https://bakerxhm.github.io/atom.xml"/>
+    <subtitle>如果你觉得我说的不对，那你他妈说的都对！</subtitle>
+    <logo>https://bakerxhm.github.io/images/avatar.png</logo>
+    <icon>https://bakerxhm.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 贝壳小航母</rights>
+    <entry>
+        <title type="html"><![CDATA[【test】1]]></title>
+        <id>https://bakerxhm.github.io/post/test-1/</id>
+        <link href="https://bakerxhm.github.io/post/test-1/">
+        </link>
+        <updated>2022-06-01T07:02:06.000Z</updated>
+        <content type="html"><![CDATA[<p>报备模板除了每个楼盘单独配置，是否需要设置个报备模板配置字段池（报备格式：）<br>
+报备楼盘：默认必填，不可修改<br>
+客户姓名：默认必填，不可修改<br>
+客户电话：默认必填，不可修改<br>
+客户性别：默认项为“必填”<br>
+<img src="https://bakerxhm.github.io/post-images/1654066991922.png" alt="" loading="lazy"><br>
+😀😀<br>
+鬼地方个的</p>
+<p>和豆腐干<br>
+<strong>装逼</strong><br>
+放公司地方</p>
+]]></content>
+    </entry>
+</feed>
